@@ -9,7 +9,10 @@
   },
   "author": "",
   "license": "ISC",
-  "devDependencies": {
+  "devDependencies": { 
     "jest": "^29.7.0"
+  },
+  "dependencies": { 
+    "jsdom": "^23.0.1"
   }
 }
